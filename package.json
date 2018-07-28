@@ -1,11 +1,11 @@
 {
   "name": "nerdjs-update",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "./lib/index.js",
   "preferGlobal": true,
   "bin": {
-    "nerdjs-init": "./bin/nerdjsinit.js"
+    "nerdjs-init": "./bin/nerdjsupdate.js"
   },
   "directories": {
     "lib": "lib",
@@ -30,6 +30,6 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/marciock/nerdjs-init"
+    "url": "git+https://github.com/marciock/nerdjs-update"
   }
 }
