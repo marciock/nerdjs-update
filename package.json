@@ -1,0 +1,35 @@
+{
+  "name": "nerdjs-update",
+  "version": "0.0.1",
+  "description": "",
+  "main": "./lib/index.js",
+  "preferGlobal": true,
+  "bin": {
+    "nerdjs-init": "./bin/nerdjsinit.js"
+  },
+  "directories": {
+    "lib": "lib",
+    "bin": "bin"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "shelljs": "^0.8.2"
+  },
+  "keywords": [
+    "javascript",
+    "init",
+    "nerdjs"
+  ],
+  "tags": [
+    "nerdjs",
+    "init"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marciock/nerdjs-init"
+  }
+}
